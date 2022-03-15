@@ -1,0 +1,5 @@
+We did not have to tidy up our data, as the downloaded data (Players and Seasons_Stats) were already tidy.
+
+Games is a csv file we created, as specified in our long form EDA.
+
+Thanks!
